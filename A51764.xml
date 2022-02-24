@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Manifesto of near 150 knights and eminent merchants and citizens of London against the Jews now in England being a brief account of the Jews case (which is now become national) in relation to the customs, &amp;c. / humbly presented to the King and Parliament by Samuel Hayne, Gent., some surveyor for the customs, and for the Act of Navigation in the counties of Devon and Cornwal.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51764</idno>
+            <idno type="STC">Wing M428</idno>
+            <idno type="STC">ESTC R31161</idno>
+            <idno type="EEBO-CITATION">11781341</idno>
+            <idno type="OCLC">ocm 11781341</idno>
+            <idno type="VID">49071</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51764)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49071)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1487:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Manifesto of near 150 knights and eminent merchants and citizens of London against the Jews now in England being a brief account of the Jews case (which is now become national) in relation to the customs, &amp;c. / humbly presented to the King and Parliament by Samuel Hayne, Gent., some surveyor for the customs, and for the Act of Navigation in the counties of Devon and Cornwal.</title>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Continued at Wing J740 on reel 1485:40.</note>
+                  <note>Imprint suggested by NUC pre-1956 imprints.</note>
+                  <note>Consists of addresses to the King regarding taxes on aliens.</note>
+                  <note>Reproduction of original in Chetham's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Aliens --  Taxation --  England.</term>
+               <term>Jews --  England --  Migrations.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:49071:1" rendition="simple:additions"/>
+            <head>THE MANIFESTO, Of near 150 Knights, and Eminent Merchants and Citizens of LONDON, Againſt the <hi>Iews now in England;</hi> Being a Brief Account of the JEWS Caſe, (which is now become Natio<g ref="char:EOLhyphen"/>nal) in Relation to the CUSTOMS, <hi>&amp;c.</hi>
+            </head>
+            <head type="sub">Humbly Preſented to the KING and PARLIAMENT, by <hi>Samuel Hayne,</hi> Gent. Sometime Surveyor for the Cuſtoms, and for the Act of Navigation, in the Counties of <hi>Devon</hi> and <hi>Cornwal.</hi>
+            </head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">N. </seg>1</label> THOUGH the Clauſes of Exemption from payment of Alien Duty, granted the Jews in their Patents of Denization by King <hi>Charles</hi> II. and King <hi>James</hi> II.<note place="margin">1. <hi>H.</hi> 7.2. 11 <hi>H.</hi> 7.14 22. <hi>H.</hi> 8.8, &amp;c.</note> 
+               <hi>Non obſtante</hi> the Statutes were Void at the Demiſe of the firſt, and the Abdication of the laſt; and that the ſaid Duty is given a new by Act of Parliament to His preſent Majeſty; and that His Majeſty has neither confirmed thoſe <hi>non obſtante</hi> Clauſes, nor granted any new Patents of Denization with ſuch Clauſes: Yet the Jews preſumed to enter their Goods and Merchandi<g ref="char:EOLhyphen"/>zes ſince His Majeſties Reign in their own Names, paying on<g ref="char:EOLhyphen"/>ly <hi>Engliſh</hi> Duty,<note place="margin">12. <hi>Car.</hi> 2.1. <hi>W.</hi> &amp; <hi>M.</hi>
+               </note> and for Non-payment of the ſaid Alien Du<g ref="char:EOLhyphen"/>ty, the Goods ſo entred, or the value thereof, are entered. <hi>Hide Stat. in the Magent.</hi>
+            </p>
+            <p>Which being taken in one of, Mr. <hi>Thomas Penington,</hi> one of His Majeſties Officers at the Cuſtom-Houſe <hi>London,</hi> (with the privity of Mr. <hi>Samuel Hayne,</hi>) acquainted one of the Lords Commiſſioners of the Treaſury with the whole matter, who did repreſent it to the King; and His Majeſty being ſa<g ref="char:EOLhyphen"/>tisfied, Mr. <hi>Penington</hi> was ordered to bring on his Informa<g ref="char:EOLhyphen"/>tions; and His Majeſty declared, That he would not abate the Jews Three pence of what was legally due to himſelf, which is a Moity.</p>
+            <p>Soon after Mr. <hi>Penington</hi> enters his Informations in the Ex<g ref="char:EOLhyphen"/>chequer, <hi>Qui tam,</hi>
+               <note place="margin">58000 <hi>l.</hi>
+               </note> 
+               <hi>&amp;c.</hi> againſt ſome Jews in about 58000 <hi>l.</hi>—And before he could bring on his firſt Tryal, the Jews got an Order of Council for Mr. Attorney Gen. to enter up <hi>Noli Proſequies</hi> againſt thoſe Informations brought by Mr. <hi>Penington,</hi> and againſt all others that ſhould be brought a<g ref="char:EOLhyphen"/>gainſt the Jews on the like Account.</p>
+            <p>However Mr. <hi>Hayne</hi> obſerving the Jews to be guilty of more Forfeitures on the ſame account, brought new Infor<g ref="char:EOLhyphen"/>mations againſt them for about 30000 <hi>l.. Non obſtante</hi> the ſaid Order.<note place="margin">30000 <hi>l.</hi>
+               </note>
+            </p>
+            <p>☞ The Jews Petition, whereon this Order of Council is grounded, is for the greateſt part filled with Illegal and Falſe Allegations, which might have been replied to and detected. And to that purpoſe Mr. <hi>Pennington</hi> lodged a ſhort Petition in Council, praying, That both parties might be heard. But when that Caſe came on (which was Nine Council Days attended) he could not get his Petition read though often urged. So the Order was paſt without ad<g ref="char:EOLhyphen"/>mitting any debate, of the Matter; as appears in <hi>Numb</hi> 3.</p>
+            <p>It is humbly ſuppoſed, That theſe Illegal Actions do na<g ref="char:EOLhyphen"/>turally fall under the Conſideration of the Parliament; (the Caſe being National,<note place="margin">100000 <hi>l.</hi>
+               </note> and of above 100000 <hi>l.</hi> con<g ref="char:EOLhyphen"/>cern to the Crown.) For, 'tis the Parliament gives the Cuſtoms (and on non-payment thereof, the Moiety of the Forfeitures) to His Majeſty, for the Supply of the Navy, <hi>&amp;c.</hi> And theſe <hi>Noli proſequies,</hi> have all of them a <hi>Salvo Jure</hi> in the Concluſion. So that if the King be de<g ref="char:EOLhyphen"/>ceived in his Grant, they are revocable, and by Autho<g ref="char:EOLhyphen"/>rity, may be ſet aſide, and the King reſtored to His Moiety.</p>
+            <div type="part">
+               <head>A Copy of the Order of Council of <hi>Noli Proſequies.</hi>
+               </head>
+               <opener>
+                  <dateline>At the Court at <hi>White-Hall,</hi> 
+                     <date>the 20<hi>th.</hi> of <hi>February,</hi> 1689. By the King's moſt Excellent Majeſty, and the Lords of His Majeſty's moſt Honourable Privy Council.</date>
+                  </dateline>
+               </opener>
+               <p>UPON reading this Day at the Board, the Humble Petition of <hi>Antonio Gomezſera, Phineas Gomezſera, Andrew Lopez, Antonio de Coſta, J<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſhuah Bueno, Me<g ref="char:EOLhyphen"/>naſſes Mendez, Antonio Corea,</hi> and ſeveral others, making in all Twenty Merchants of <hi>London;</hi> ſetting forth,
+<list>
+                     <item>(1) That the moſt of them being made Free D<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nizens, are by Vertue thereof diſcharged from paying any more Cuſtoms, then his Majeſty's Natural born Subjects.</item>
+                     <item>(2.) And that, upon queſtioning the Validity of their Patents in the Date Reign, it was by the then Lord Treaſurer, with Advice of the then Attorny General, upon a ſolemn hearing of Council on both Sides determined in Favour of the Petitioners; who were then told by the Commiſſioners of the Cuſtoms, That they might freely enjoy the Benefit intended them by their Letters Patents.</item>
+                     <item>(3.) And afterwards, when Informations of <hi>Devenerunt</hi> were brought againſt them, for all the Goods they had Imported ſince the Death of King Charles the Second for Non-payment of Aliens Duties; the ſame, upon Application to His Majeſty in Council, were ſtopt by <hi>Noli proſequies,</hi> and the Letters Patents thereby again confirm<g ref="char:EOLhyphen"/>ed:</item>
+                     <item>(4) That now there are Suits commenced againſt them by one <hi>Thomas Penington,</hi> who has lately Arreſted all the Petitioners in His Majeſty's Name, for vaſt Summs of Money, being the Value of all the Goods they have Im<g ref="char:EOLhyphen"/>ported and Exported ſince the Eleventh of <hi>December</hi> 1688. and brought Informations of <hi>Devenerunt</hi> againſt them in the Court of <hi>Exchecquer,</hi> which greatly impairs their Cre<g ref="char:EOLhyphen"/>dits, and puts a ſtop to their Trading.</item>
+                     <item>(5.) That ſuch of the Petitioners as are not Denizens, have paid Aliens Duties for all the Goods they Imported, and the reſt have not taken the Benefit of their patents, any farther than what concerns their own proper Goods, paying ſtill, as Aliens, for what belonged to Foreigners, and was conſigned to them by their Friends Abroad, inaſmuch that for above one half of what they are Arreſted for they have paid the full Duty as Aliens.</item>
+                     <item>(6.) And as for Aliens Duty Out<g ref="char:EOLhyphen"/>wards, the ſame having been taken off by <hi>Act</hi> of parlia<g ref="char:EOLhyphen"/>ment in King <hi>Charles</hi>'s Reign, and by proclamation in the Late Reign, as greatly prejudicial to the Exportation of the Woolen Manufactures, it was never demanded. The Com<g ref="char:EOLhyphen"/>miſſioners of the Cuſtoms taking it for granted, That it was
+<pb n="1" facs="tcp:49071:2" rendition="simple:additions"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb facs="tcp:49071:3" rendition="simple:additions"/>never intended by the next Grant of the Cuſtoms to his Ma<g ref="char:EOLhyphen"/>jeſty; till of late the ſaid Commiſſioners have been directed and have ordered the Merchants to depoſite the ſaid Duties Outwards, till His Majeſty ſhall be pleaſed to declare his farther pleaſure.</item>
+                     <item>(7.) And the Petitioners therefore pray<g ref="char:EOLhyphen"/>ing to be relieved againſt the ſaid Informations, by a <hi>Noli Proſequi,</hi> His Majeſty taking the whole Matter into Conſide<g ref="char:EOLhyphen"/>ration, was Graciouſly Pleaſed this Day in Council, to Or<g ref="char:EOLhyphen"/>der, That Sir <hi>George Treby,</hi> His Majeſty's Attorney General, do cauſe <hi>Noli Proſequies</hi> to be forthwith Entred upon the ſaid Informations, or any others that ſhall be brought againſt the Petitioners upon the like Accompt, it being His Maje<g ref="char:EOLhyphen"/>ſty's Pleaſure, that they enjoy the full Benefit of their Re<g ref="char:EOLhyphen"/>ſpective Letters Patents.</item>
+                  </list>
+               </p>
+               <closer>
+                  <signed>John Nicholus.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>Remarks on the Order of Council foregoing for <hi>Noli Proſequies;</hi> which (with other things) would have been argued, if a hearing had been admitted.</head>
+               <p>
+                  <list>
+                     <item>(1.) THE very firſt Allegation is falſe, for by the Sta<g ref="char:EOLhyphen"/>tutes, Aliens made Denizens, muſt pay the ſame Duty they did before they were made Denizens, notwith<g ref="char:EOLhyphen"/>ſtanding any Patents then granted, or afterwards to be gran<g ref="char:EOLhyphen"/>ted to the contrary.</item>
+                     <item>(2.) However, King <hi>Charles</hi> the II. granted divers Jews Patents of Denization, with Clauſes of Exemption from Payment of the Alien Duty <hi>non obſtante</hi> the S<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>atutes. But that Duty, with the Cuſtoms, were given to the ſaid King only for his Life, and that the Validity of their Patents were called in Queſtion, is alſo Falſe, for, 'twas only thoſe <hi>non obſtante</hi> Clauſes were queſtioned. And my Lord Treaſurer, the Earl of <hi>Rocheſter,</hi> never determi<g ref="char:EOLhyphen"/>ned in their Favour, but declared his Opinion to the Con<g ref="char:EOLhyphen"/>trary. But as for the Commiſſioners of the Cuſtoms, (over whom Sir <hi>Nicholas Butler</hi> had the Aſcendant, and was to the Jews a particular Friend,) might, for ought I know, ſay as they Alledge.</item>
+                     <item>(3.) The <hi>non obſtante</hi> Clauſes being Void by King <hi>Charles</hi> his Demiſe, and, by Act of Parliament, that Duty given a new to King <hi>James;</hi> and thoſe Jews omit<g ref="char:EOLhyphen"/>ting to pay the ſame, Informations (after taking the Opi<g ref="char:EOLhyphen"/>nions of Sir <hi>John Holt,</hi> Sir <hi>Henry Pollexfen,</hi> Sir <hi>Crezwell Levi<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tz,</hi> Mr. <hi>Fi<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ch,</hi> Sir <hi>William Williams,</hi> and other Coun<g ref="char:EOLhyphen"/>cil Learned) were brought againſt them, and the Trial ready, but ſtopt by <hi>Noli Proſequies</hi> gotten behind the Backs of the Informants, by the intereſt of Sir <hi>Nicholas Butler,</hi> as Sir <hi>Thomas Powis,</hi> then Attorney-General, told them; but their <hi>non obſtante</hi> Clauſes are not thereby confirmed.</item>
+                     <item>(4.) King <hi>James</hi> granted to thoſe, and other Jews, the like <hi>non obſtante</hi> Clauſes, which, by Council-Learned, Mr. <hi>Penington</hi> was adviſed were Void by his Abdication. And the ſaid Duties being given a new to Their Preſent Majeſties, he did bring Informations of <hi>Devenerunt,</hi> as is ſet forth, and if it impairs their Credits, they have brought it on them<g ref="char:EOLhyphen"/>ſelves by their non-payment of the Duty.</item>
+                     <item>(5.) Their Al<g ref="char:EOLhyphen"/>legations of paying Aliens Duty, <hi>&amp;c.</hi> is but a Sham; for Mr. <hi>Penington</hi> cannot recover, but for ſuch Goods as have not paid it.</item>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="2"/> (6.) The Act for taking off the Alien Duty Outward in King <hi>Charles</hi> his Reign, was Repealed by the Acts 1 <hi>Jac.</hi> 2. and 1 <hi>VV. M.</hi> and there was never a Procla<g ref="char:EOLhyphen"/>mation to that purpoſe in King <hi>James</hi> his Reign, only an Order of Council during Heaſure; againſt which, all the Merchants in <hi>England</hi> (except very few) Petitioned, but could not be redreſſed till His Preſent Majeſty in Council the 1<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th. of <hi>Octob<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r,</hi> 1693. Ordered its Receipt, a Copy of which Petition and Order, and the Merchants Addreſs of Thanks therefore follow.</item>
+                     <item>(7.) And now the Jews (cor<g ref="char:EOLhyphen"/>reſpondent to their former Art in King <hi>James</hi> his time) have procured this Order of Council without any hearing <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ad of the Matter, which is humbly conceived would ne<g ref="char:EOLhyphen"/>ver have been granted, if his Majeſty, (by whoſe Appro<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ion the Suits were beg<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n,) had heard the Matter de<g ref="char:EOLhyphen"/>bated.</item>
+                  </list>
+               </p>
+               <p>Conſidering,</p>
+               <p>
+                  <hi>Firſt,</hi> That His Majeſty's Moity of the Proſecution amounts to above 40000 <hi>l.</hi> on Forfeitures paſt.<note place="margin">40000 <hi>l.</hi>
+                  </note> That the Duty thereby cut off for the future, is at leaſt 10000 <hi>l. per Ann.</hi>
+                  <note place="margin">10000 <hi>l. per An.</hi>
+                  </note> That His Majeſties Neceſſary Occaſions muſt be provided for; and if this be remitted to the Jews, it muſt be ſup<g ref="char:EOLhyphen"/>plied by the People of <hi>England.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> That the Ballance of Trade is thereby broken, and thoſe Jews, by Vertue of their Illegal Clauſes, let looſe to over-run and Ruin the Trade of the <hi>Engliſh</hi> Merchants, both at Home and Abroad.</p>
+               <p>
+                  <hi>Thirdly,</hi> That theſe <hi>Noli Proſequies</hi> prove a Snare to the Juſt, whether Officer or other Legal Proſecutor; for, in<g ref="char:EOLhyphen"/>ſtead of Reaping the Benefit of their Legal Proſecutions, they are by <hi>Noli Proſequies</hi> caught in a Trap and ruined.</p>
+               <p>
+                  <hi>Fourthly,</hi> That this Order of Council bears date ſince the laſt Seſſion of Parliament, and the Act of Rights,<note place="margin">
+                     <hi>1.</hi> W. M.</note> 
+                  <hi>&amp;c.</hi> provides againſt all <hi>Non Obſtantes,</hi> of, or to any Statute whatſoever: And, though theſe are only <hi>Noli Proſequies,</hi> yet they are to ſupport and confirm pernitious <hi>Non Obſtantes</hi> granted by King <hi>Charles</hi> and King <hi>James:</hi> Alſo the ſaid Act declares the diſpencing Power Illegal, and that no Forfei<g ref="char:EOLhyphen"/>tures ſhall be diſpoſed of till after Conviction.</p>
+               <p>
+                  <hi>Fifthly,</hi> That moſt <hi>Engliſh</hi> Merchants have Eſtates, in Land, as well as Stocks in Trade. and pay Taxes for it, whereas the Jews Riches are paſt finding out: And, it muſt needs grieve the <hi>Engliſh</hi> to pay the New Taxes, when the Jews are Illegally exempted from payment of an Ancient Duty.</p>
+            </div>
+            <div type="part">
+               <head>A Copy of Mr. <hi>Penington</hi>'s Petition which he could not get Read.</head>
+               <head>To the King's Moſt Excellent Majeſty in Council.</head>
+               <opener>Sheweth,</opener>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">N. </seg>4</label> THAT your Petitioner, by Advice of Council-Learned, and mature Conſideration, had with Your Majeſty's fair dealing Engliſh Merchants, did lately bring Writs of <hi>Devenerunt qui tam,</hi> &amp;c. againſt ſome Jews, who had defrauded Your Majeſty in Your Cu<g ref="char:EOLhyphen"/>ſtoms, and illegally incroached on the Trade of this King<g ref="char:EOLhyphen"/>dom, in hopes that by a Legal Conviction of their Frauds, they may be obliged, for the future, to pay Your Maje<g ref="char:EOLhyphen"/>ſties Cuſtoms according to Law, which will advance the Revenue at leaſt Ten Thouſand Pounds <hi>per Annum,</hi> and the true Intereſt of the Nation.</p>
+               <p>That Your Petitioner was lately informed, That the ſaid Jews petitioned Your Majeſty in Council for a <hi>Noli proſequi</hi> on the ſaid Actions, to which Year Petitioner made an Anſwer, and petitioned Your Majeſty, That both might be Read before any Determination were made in the Mat<g ref="char:EOLhyphen"/>ter; notwithſtanding which, the ſaid Jews now give out, That Your Majeſty will grant the ſaid <hi>Noli proſequi</hi> with<g ref="char:EOLhyphen"/>out it.</p>
+               <p>
+                  <hi>Your Petitioner therefore moſt Humbly prays Your Sacred Majeſty, (conſidering that this is a National Caſe,) That You would pleaſe to hear both Parties, either with or without Council, and that then Your Majeſty would pleaſe to give ſuch Directions therein, as to Your Majeſty in Your great Wiſdom ſhall ſeem meet.</hi>
+               </p>
+               <p>And Your Petitioner ſhall ever Pray, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
